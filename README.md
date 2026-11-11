@@ -30,9 +30,34 @@ Practical Exercises
 - PivotTables and PivotCharts
 - Basic IT support reporting
 
-Project Outcome
-Created a simulated helpdesk ticket management system with an Excel dashboard to monitor ticket status, priority and category.
+Project Screenshots
+
+1. Windows Task Manager Analysis
+Demonstrates system resource monitoring, including CPU, memory and disk usage.
+
+2. Network Diagnostics
+Demonstrates connectivity testing using ping, ipconfig and nslookup.
+
+3. Excel Helpdesk Dashboard
+Displays ticket statistics, status distribution, priority analysis and ticket categories.
+
+Project Structure
+
+- Documentation – Troubleshooting reports and practical observations.
+- Excel – Helpdesk ticket tracker and dashboard.
+- Screenshots – Evidence of completed practical exercises.
+
+Learning Outcomes
+
+- Basic Windows operating system troubleshooting.
+- Understanding IP addressing and DNS.
+- Network connectivity diagnosis.
+- Helpdesk incident documentation.
+- Excel-based ticket tracking and reporting.
 
 Disclaimer
-This is an educational simulation using sample helpdesk tickets and personal Windows troubleshooting exercises.
 
+This is an educational project using simulated helpdesk tickets and personal Windows troubleshooting exercises.
+
+Project Outcome
+Created a simulated helpdesk ticket management system with an Excel dashboard to monitor ticket status, priority and category.
