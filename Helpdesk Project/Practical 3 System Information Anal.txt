@@ -1,0 +1,12 @@
+Practical 3: System Information Analysis
+
+OS Name: Microsoft Windows 11 Home Single Language
+OS Version: 10.0.26300 Build 26300
+System Manufacturer: ASUSTeK COMPUTER INC.
+System Model: ASUS TUF Gaming A15 FA507NUR_FA507NUR
+Processor: AMD Ryzen 7 7435HS, 3100 Mhz, 8 Core(s), 16 Logical Processor(s)
+Installed RAM: 16.0 GB
+System Type: x64-based PC
+
+Conclusion:
+System specifications collected successfully.

@@ -1,0 +1,7 @@
+Analysis of your results
+Test	Your result	Interpretation
+IPv4 Address	192.168.1.10	Your laptop has a private network address
+Default Gateway	192.168.1.1	Your laptop has a configured gateway, likely your router
+ping 8.8.8.8	Successful	Your laptop can reach Google's public IP
+ping google.com	Successful	Domain-based connectivity is working
+nslookup google.com	Returned DNS server and IP	DNS name resolution is working

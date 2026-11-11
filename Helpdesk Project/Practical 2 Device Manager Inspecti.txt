@@ -1,0 +1,13 @@
+Practical 2: Device Manager Inspection
+
+Operating System: Windows 11
+
+Wi-Fi Adapter: Working properly
+Display Adapter: Working properly
+Keyboard: Working properly
+Audio Device: Working properly
+Warning Symbols: None observed
+
+Conclusion:
+All inspected hardware devices are functioning normally.
+No visible driver or device-related errors were identified.

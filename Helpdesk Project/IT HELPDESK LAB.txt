@@ -1,0 +1,22 @@
+IT HELPDESK LAB
+TASK 1: TASK MANAGER ANALYSIS
+
+Operating System: Windows 11
+Installed RAM: 16 GB
+
+CPU Usage:6%
+Memory Usage:63%
+Disk Usage:5%
+Top Memory Consuming Application: Google Chrome
+
+Observation:
+Is the computer running normally?
+
+Conclusion:
+
+
+
+
+
+
+

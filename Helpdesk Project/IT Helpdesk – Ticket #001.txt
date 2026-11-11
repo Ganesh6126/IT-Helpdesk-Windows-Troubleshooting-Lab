@@ -1,0 +1,29 @@
+IT Helpdesk – Ticket #001
+Pending validation
+
+
+Issue reported
+
+Employee reports: "My laptop is connected to the office Wi-Fi, but I cannot access websites."
+
+Troubleshooting performed
+1. Checked Wi-Fi IP configuration using ipconfig /all.
+2. Tested gateway connectivity using ping 192.168.1.1.
+3. Tested external connectivity using ping 8.8.8.8.
+4. Verified DNS using nslookup google.com.
+5. Tested website access using Google Chrome.
+Test results
+
+All five checks passed on your test laptop.
+
+Findings
+
+No network connectivity or DNS issue was identified on the test laptop. The reported employee issue has not yet been reproduced on the employee's device.
+
+Next action
+
+Verify connectivity directly on the employee's laptop. If the issue persists, investigate browser settings, proxy configuration, firewall restrictions, VPN settings or application-specific problems.
+
+Technician conclusion
+
+Initial network diagnostics completed. Awaiting employee-device verification before closure.
