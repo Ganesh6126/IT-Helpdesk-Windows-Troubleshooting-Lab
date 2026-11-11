@@ -34,12 +34,15 @@ Project Screenshots
 
 1. Windows Task Manager Analysis
 Demonstrates system resource monitoring, including CPU, memory and disk usage.
+![Task Manager](Helpdesk%20Project/Screenshots/Task_Manager.png)
 
-2. Network Diagnostics
+3. Network Diagnostics
 Demonstrates connectivity testing using ping, ipconfig and nslookup.
+![Network Diagnostics](Helpdesk%20Project/Screenshots/Network_Diagnostics.png)
 
-3. Excel Helpdesk Dashboard
+5. Excel Helpdesk Dashboard
 Displays ticket statistics, status distribution, priority analysis and ticket categories.
+![Excel Dashboard](Helpdesk%20Project/Screenshots/Dashboard.png)
 
 Project Structure
 
